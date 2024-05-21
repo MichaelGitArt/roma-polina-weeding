@@ -24,14 +24,12 @@
       </div>
 
       <div class="text-2xl font-semibold text-center mb-10 text-tw-primary">
-        July 6, 16:00 (Saturday)
+        Saturday, July 6, 7 AM (MDT)
 
         <br>
 
-        <a href="https://maps.app.goo.gl/UNQeaynTRkzLQfz67" class="underline mb-7 block">Vishneve, Lomonosova 3</a>
-
         <VBtn
-          href="https://docs.google.com/forms/d/e/1FAIpQLScW3BPuTNNE-2uMuGqVNwj1r_y37LLHsOMTaTjEZOmXy3R5WQ/viewform"
+          href="https://docs.google.com/forms/d/1pHRBHJsEM89AfvoJ9zDVw7bFjfXb_aAAMEBg_TStoSE/edit?pli=1"
           color="primary"
           size="large"
           variant="flat"
@@ -71,7 +69,7 @@
 
           <div class="text-center">
             <VBtn
-              href="https://docs.google.com/forms/d/e/1FAIpQLScW3BPuTNNE-2uMuGqVNwj1r_y37LLHsOMTaTjEZOmXy3R5WQ/viewform"
+              href="https://docs.google.com/forms/d/1pHRBHJsEM89AfvoJ9zDVw7bFjfXb_aAAMEBg_TStoSE/edit?pli=1"
               color="primary"
               size="large"
               variant="flat"
