@@ -1,5 +1,7 @@
 <script setup lang="ts">
 import Logo from './Logo.vue'
+
+const route = useRoute()
 </script>
 
 <template>
@@ -7,6 +9,7 @@ import Logo from './Logo.vue'
     density="compact"
     flat
     height="100"
+    absolute
     class="app-layout-toolbar"
   >
     <VContainer class="flex items-center py-0">
@@ -16,13 +19,27 @@ import Logo from './Logo.vue'
         </RouterLink>
       </VToolbarTitle>
 
-      <!-- <div class="div">
-        6 Липня 2024
-      </div> -->
+      <div class="text-lg font-bold flex items-center gap-2">
+        <RouterLink
+          to="/"
+          :class="{
+            'underline opacity-60': route.path === '/',
+          }"
+        >
+          UA
+        </RouterLink>
 
-      <VBtn icon size="large">
-        <MenuIcon />
-      </VBtn>
+        |
+
+        <RouterLink
+          to="/en"
+          :class="{
+            'underline opacity-60': route.path === '/en',
+          }"
+        >
+          EN
+        </RouterLink>
+      </div>
 
       <!-- <VMenu>
         <template #activator="{ props }">

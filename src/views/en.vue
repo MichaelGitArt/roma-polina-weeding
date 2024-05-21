@@ -14,21 +14,21 @@
       <div class="relative z-10">
         <div class="main-circle">
           <div class="text-5xl font-semibold text-center mb-7 font-fancy flex items-end">
-            Роман <span class="text-xl px-3"> & </span> Поліна
+            Roman <span class="text-xl px-3"> & </span> Polina
           </div>
 
           <div class="text-3xl font-semibold text-center font-fancy">
-            6 Липня 2024
+            July 6, 2024
           </div>
         </div>
       </div>
 
       <div class="text-2xl font-semibold text-center mb-10 text-tw-primary">
-        6 липня 16:00 (Субота)
+        July 6, 16:00 (Saturday)
 
         <br>
 
-        <a href="https://maps.app.goo.gl/UNQeaynTRkzLQfz67" class="underline mb-7 block">м. Вишневе, Ломоносова 3</a>
+        <a href="https://maps.app.goo.gl/UNQeaynTRkzLQfz67" class="underline mb-7 block">Vishneve, Lomonosova 3</a>
 
         <VBtn
           href="https://docs.google.com/forms/d/e/1FAIpQLScW3BPuTNNE-2uMuGqVNwj1r_y37LLHsOMTaTjEZOmXy3R5WQ/viewform"
@@ -36,7 +36,7 @@
           size="large"
           variant="flat"
         >
-          Підтвердити присутність
+          Confirm attendance
         </VBtn>
       </div>
 
@@ -48,25 +48,25 @@
 
     <VContainer class="pt-5 pb-30 px-6 text-xl">
       <div class="text-4xl mb-10 text-center font-semibold">
-        День нашого святкування
+        The day of our celebration
       </div>
 
       <div class="text-left">
         <p class="mb-10">
-          Привіт) Ми хочемо запросити вас на наше весілля. Для нас це дуже важливий день, до якого ми йшли кілька років. Тож ми будемо щасливі провести разом із вами день і вечір святкування нашого возз'єднання.
+          Hi) We want to invite you to our wedding. For us, this is a very important day that we have been working towards for several years. So we will be happy to spend the day and evening of celebrating our reunion with you.
         </p>
 
         <p class="mb-10">
-          Ми познайомились у 2019 році, коли доєднались до Київської команди Кемпуса. Дружили 2 роки, а зустрічатись почали у 2021. А потім - війна, яка стала початком стосунків на відстані.
+          We met in 2019 when we joined the Kyiv Campus team. We were friends for 2 years and started dating in 2021. And then - the war, which started a long-distance relationship.
         </p>
 
         <p class="mb-10">
-          Дивно, думати про це, але на відстані ми провели більше двох років. Поліна приїжджала з Канади в кінці семестру на кілька тижнів і знову їхала. В останній такий її приїзд Ромі увірвався терпець і він зробив їй пропозицію нікуди більше не їхати від нього. Поля сказала “Так” - і поїхала ще на рік… Але скоро вона повернеться, і ми будемо разом вже надовго.
+          It's strange to think about it, but we spent more than two years apart. Polina came from Canada at the end of the semester for a few weeks and then left again. During her last visit, Roma couldn't take it anymore and proposed to her to stay with him forever. Polina said “Yes” - and left for another year... But soon she will return, and we will be together for a long time.
         </p>
 
         <div class="border border-tw-primary shadow shadow-xl rounded-lg py-5 px-5 mb-10">
           <p class="mb-4 font-semibold text-center">
-            Будь ласка, підтвердіть свою присутність на весіллі до 30 травня
+            Please confirm your attendance at the wedding by May 30
           </p>
 
           <div class="text-center">
@@ -76,7 +76,7 @@
               size="large"
               variant="flat"
             >
-              Підтвердити присутність
+              Confirm attendance
             </VBtn>
           </div>
         </div>
@@ -84,7 +84,7 @@
 
       <div class="text-center">
         <p class="mb-2">
-          Ми будемо раді якщо ви вдягнете одяг за кольорами нашого весілля:
+          We would be happy if you wear clothes in the colors of our wedding:
         </p>
 
         <img
