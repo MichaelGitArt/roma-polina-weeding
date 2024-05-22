@@ -24,13 +24,17 @@
       </div>
 
       <div class="text-2xl font-semibold text-center mb-10 text-tw-primary">
-        Saturday, July 6, 7 AM (MDT)
+        Saturday, July 6, 
+
+        <br>
+
+        7 AM (MDT)
 
         <br>
 
         <VBtn
           href="https://docs.google.com/forms/d/1pHRBHJsEM89AfvoJ9zDVw7bFjfXb_aAAMEBg_TStoSE/edit?pli=1"
-          color="primary"
+          color="#C2A4A1"
           size="large"
           variant="flat"
         >
@@ -64,19 +68,36 @@
 
         <div class="border border-tw-primary shadow shadow-xl rounded-lg py-5 px-5 mb-10">
           <p class="mb-4 font-semibold text-center">
-            Please confirm your attendance at the wedding by May 30
+            Please confirm your attendance at the wedding by June 29th 
           </p>
 
           <div class="text-center">
             <VBtn
               href="https://docs.google.com/forms/d/1pHRBHJsEM89AfvoJ9zDVw7bFjfXb_aAAMEBg_TStoSE/edit?pli=1"
-              color="primary"
+              color="#C2A4A1"
               size="large"
               variant="flat"
             >
               Confirm attendance
             </VBtn>
           </div>
+        </div>
+      </div>
+
+      <div class="border border-tw-primary shadow shadow-xl rounded-lg py-5 px-5 mb-10">
+        <p class="mb-4 font-semibold text-center">
+          Join us over zoom 
+        </p>
+
+        <div class="text-center">
+          <VBtn
+            href="https://us04web.zoom.us/j/71258235423?pwd=VYW5obAx8QwpWK8ATXyDzUtaZQ8UpG.1"
+            color="#C2A4A1"
+            size="large"
+            variant="flat"
+          >
+            Open Zoom App
+          </VBtn>
         </div>
       </div>
 

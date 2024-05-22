@@ -32,7 +32,7 @@
 
         <VBtn
           href="https://docs.google.com/forms/d/e/1FAIpQLScW3BPuTNNE-2uMuGqVNwj1r_y37LLHsOMTaTjEZOmXy3R5WQ/viewform"
-          color="primary"
+          color="#C2A4A1"
           size="large"
           variant="flat"
         >
@@ -66,13 +66,13 @@
 
         <div class="border border-tw-primary shadow shadow-xl rounded-lg py-5 px-5 mb-10">
           <p class="mb-4 font-semibold text-center">
-            Будь ласка, підтвердіть свою присутність на весіллі до 30 травня
+            Будь ласка, підтвердіть свою присутність на весіллі до 8 червня 
           </p>
 
           <div class="text-center">
             <VBtn
               href="https://docs.google.com/forms/d/e/1FAIpQLScW3BPuTNNE-2uMuGqVNwj1r_y37LLHsOMTaTjEZOmXy3R5WQ/viewform"
-              color="primary"
+              color="#C2A4A1"
               size="large"
               variant="flat"
             >
