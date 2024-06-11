@@ -66,7 +66,7 @@
 
         <div class="border border-tw-primary shadow shadow-xl rounded-lg py-5 px-5 mb-10">
           <p class="mb-4 font-semibold text-center">
-            Будь ласка, підтвердіть свою присутність на весіллі до 8 червня 
+            Будь ласка, підтвердіть свою присутність на весіллі до 20 червня 
           </p>
 
           <div class="text-center">
